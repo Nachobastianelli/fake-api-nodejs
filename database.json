@@ -1,90 +1,34 @@
 {
   "users": [
     {
-      "name": "Celeste Arguellesss",
-      "email": "Cele@gmail.com",
+      "name": "user",
+      "lastname": "common",
+      "email": "user@gmail.com",
+      "password": "user",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721187928286,
+      "modifiedAt": 1721187928286,
+      "id": 12
+    },
+    {
+      "name": "Editor",
+      "email": "editor@gmail.com",
       "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
       "role": "Editor",
-      "password": "celeste",
-      "modifiedAt": 1720644270769,
-      "id": 1
+      "password": "editor",
+      "modifiedAt": 1721188038599,
+      "id": 13
     },
     {
-      "name": "yanoSigueesprueba",
-      "email": "prueba@gmail.com",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "role": "Editor",
-      "password": "12345",
-      "modifiedAt": 1720647244980,
-      "id": 3
-    },
-    {
-      "name": "prueba",
-      "email": "carinamperetti@gmail.com",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "role": "User",
-      "password": "carina123",
-      "modifiedAt": 1720472139516,
-      "id": 4
-    },
-    {
-      "name": "Gustavo",
-      "email": "gustyDJcerati@gmail.com",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "role": "User",
-      "password": "elDJmasloquita",
-      "modifiedAt": 1720764176428,
-      "id": 5
-    },
-    {
-      "name": "Probando ",
-      "lastname": "funcionalidades",
-      "email": "probandofuncionalidades@gmail.com",
-      "password": "probando123",
-      "role": "User",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "createdAt": 1720446242110,
-      "modifiedAt": 1720446242110,
-      "id": 6
-    },
-    {
-      "name": "nnnnnnacho",
-      "lastname": "bbbbbastianelli",
-      "email": "nachoto@gmail.com",
+      "name": "Admin",
+      "lastname": "Administrator",
+      "email": "admin@gmail.com",
       "role": "Admin",
-      "password": "nachoto",
       "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "createdAt": 1720458081146,
-      "modifiedAt": 1720458081146,
-      "id": 7
-    },
-    {
-      "name": "brian",
-      "email": "dasdas@gmail.com",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "role": "Admin",
-      "modifiedAt": 1720458570951,
-      "id": 8
-    },
-    {
-      "name": "Elvis",
-      "email": "elvis@gmail.com",
-      "imageUrl": "https://avatars.githubusercontent.com/u/1561955?v=4",
-      "role": "User",
-      "password": "elvis",
-      "modifiedAt": 1720470863445,
-      "id": 9
-    },
-    {
-      "name": "no me andan",
-      "lastname": "las rutas protected ;(",
-      "email": "lpm@gmail.com",
-      "role": "User",
-      "password": "lpm",
-      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "createdAt": 1720764207304,
-      "modifiedAt": 1720764207304,
-      "id": 10
+      "password": "admin",
+      "modifiedAt": 1721408821769,
+      "id": 14
     }
   ],
   "products": [
@@ -177,15 +121,12 @@
       "description": "Gorra negra de la colección Primary, perfecta para protegerte del sol con estilo. Confeccionada con materiales de alta calidad, esta gorra es duradera y cómoda para el uso diario."
     },
     {
-      "id": 9,
       "name": "POLO CREWNECK [ CINNABON ] INSTITUTE",
-      "price": 44500,
-      "quantity": 77,
+      "price": "44500",
       "imageUrl": "https://tuareq.com/cdn/shop/files/DSC03765.jpg?v=1717775576&width=1000",
-      "status": false,
-      "createdAt": 1612357500000,
-      "modifiedAt": 1614956760000,
-      "description": "Polo crewneck en color canela de la colección Institute. Esta prenda es ideal para un look casual y cómodo, hecha con materiales de alta calidad para garantizar durabilidad y confort."
+      "description": "Polo crewneck en color canela de la colección Institute. Esta prenda es ideal para un look casual y cómodo, hecha con materiales de alta calidad para garantizar durabilidad y confort.",
+      "modifiedAt": 1720879404711,
+      "id": 9
     },
     {
       "id": 10,
