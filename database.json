@@ -88,45 +88,31 @@
       "description": "Mochila de eco cuero con el clásico logo, perfecta para llevar tus pertenencias con estilo. Duradera y espaciosa, es ideal para uso diario o para viajes cortos."
     },
     {
-      "id": 6,
       "name": "REMERA [ RABAT ] WHITE",
-      "price": 21000,
-      "quantity": 37,
+      "price": "21000",
       "imageUrl": "https://tuareq.com/cdn/shop/files/DSC05472.jpg?v=1712939993&width=1000",
-      "status": false,
-      "createdAt": 1619270940000,
-      "modifiedAt": 1619443380000,
-      "description": "Remera blanca de la colección Rabat, confeccionada con algodón de alta calidad. Su diseño simple y elegante la hace perfecta para combinar con cualquier prenda y crear un look casual."
+      "description": "Remera blanca de la colección Rabat, confeccionada con algodón de alta calidad. Su diseño simple y elegante la hace perfecta para combinar con cualquier prenda y crear un look casual.",
+      "modifiedAt": 1720913282599,
+      "id": 6
     },
     {
-      "id": 7,
       "name": "REMERA [ ANDROMEDA ] GRIS",
-      "price": 18750,
-      "quantity": 60,
+      "price": "18750",
       "imageUrl": "https://tuareq.com/cdn/shop/files/DSC05900_1.jpg?v=1712963154&width=1000",
-      "status": false,
-      "createdAt": 1614098400000,
-      "modifiedAt": "2021-04-16",
-      "description": "Remera gris de la colección Andromeda, hecha con algodón suave y cómodo. Ideal para un look casual y relajado, esta remera es un básico que no puede faltar en tu guardarropa."
+      "description": "Remera gris de la colección Andromeda, hecha con algodón suave y cómodo. Ideal para un look casual y relajado, esta remera es un básico que no puede faltar en tu guardarropa.",
+      "modifiedAt": 1720914635308,
+      "id": 7
     },
     {
-      "id": 8,
-      "name": "GORRA [ PRIMARY ] BLACK",
-      "price": 23500,
-      "quantity": 40,
-      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC06273_1.jpg?v=1712958042&width=1000",
-      "status": false,
-      "createdAt": 1617954000000,
-      "modifiedAt": 1619964420000,
-      "description": "Gorra negra de la colección Primary, perfecta para protegerte del sol con estilo. Confeccionada con materiales de alta calidad, esta gorra es duradera y cómoda para el uso diario."
-    },
-    {
+      "id": 9,
       "name": "POLO CREWNECK [ CINNABON ] INSTITUTE",
-      "price": "44500",
+      "price": 44500,
+      "quantity": 77,
       "imageUrl": "https://tuareq.com/cdn/shop/files/DSC03765.jpg?v=1717775576&width=1000",
-      "description": "Polo crewneck en color canela de la colección Institute. Esta prenda es ideal para un look casual y cómodo, hecha con materiales de alta calidad para garantizar durabilidad y confort.",
-      "modifiedAt": 1720879404711,
-      "id": 9
+      "status": false,
+      "createdAt": 1612357500000,
+      "modifiedAt": 1614956760000,
+      "description": "Polo crewneck en color canela de la colección Institute. Esta prenda es ideal para un look casual y cómodo, hecha con materiales de alta calidad para garantizar durabilidad y confort."
     },
     {
       "id": 10,
@@ -138,6 +124,105 @@
       "createdAt": 1615146960000,
       "modifiedAt": 1615146960000,
       "description": "Jogger pesado en color manteca, perfecto para un look cómodo y relajado. Confeccionado con materiales de alta calidad, estos joggers son ideales para el uso diario o para actividades deportivas."
+    },
+    {
+      "name": "GORRA [ PRIMARY ] BLACK",
+      "description": "Gorra negra de la colección Primary, perfecta para protegerte del sol con estilo. Confeccionada con materiales de alta calidad, esta gorra es duradera y cómoda para el uso diario.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC06273_1.jpg?v=1712958042&width=1000",
+      "price": "23500",
+      "createdAt": 1720903090549,
+      "modifiedAt": 1720903090549,
+      "id": 11
+    },
+    {
+      "name": "JOGGER PESADO [ CANDY ] MARINO",
+      "description": "Jogger confeccionado en 100% algodón genuino. Molderia tipo MOM ancho desarrollada por TUAREQ. Dispone de bolsillos clásicos en laterales, bolsillo cargo en lateral derecho inferior según diseño que corresponda. Prenda prelavada con efecto suavizado y acabado mercerizado. ",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC03559.jpg?v=1717767511&width=1000",
+      "price": "75000",
+      "createdAt": 1721435553648,
+      "modifiedAt": 1721435553648,
+      "id": 12
+    },
+    {
+      "name": "REMERA SEMIBOXY [ DAILY ] WHITE",
+      "description": "Remera confeccionada en algodón genuino. Cuello clásico redondo en rib compacto. Compuesta por 90% algodón + 10% tejido SPANDEX. Molderia semi-boxy by TUAREQ.\nPrenda prelavada con efecto suavizado y acabado mercerizado. \nCualquier accesorio que vea en las imágenes del carrusel se vende por separado. Use agua fría para lavar. No centrifugue. Evite usar blanqueadores o cloro. Planche con cuidado.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC07392.jpg?v=1715282473&width=1000",
+      "price": "22500",
+      "createdAt": 1721435621662,
+      "modifiedAt": 1721435621662,
+      "id": 13
+    },
+    {
+      "name": "MUSCULOSA [ COMANDO ] WHITE",
+      "description": "Musculosa confeccionada en algodón genuino. Cuello clásico redondo en rib compacto. Compuesta por 90% algodón + 10% tejidos SPANDEX. Prenda prelavada con efecto suavizado y acabado mercerizado.\n\n*Cualquier accesorio que vea en las imágenes del carrusel se vende por separado. Use agua fría para lavar. No centrifugue. Evite usar blanqueadores o cloro. Planche con cuidado.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC00029_a0eee5ce-1ed2-48ed-bfa6-59f94f7467a1.jpg?v=1709948639&width=1000",
+      "price": "13500",
+      "createdAt": 1721435712600,
+      "modifiedAt": 1721435712600,
+      "id": 14
+    },
+    {
+      "name": "HOODIE PESADO [ DAILY ] WHITE",
+      "description": "Hoodie confeccionado en algodón genuino sin frisar. Con efecto suavizado y prelavado. Compuesta por 90% algodón + 10% tejido SPANDEX. Prenda prelavada con efecto suavizado y acabado mercerizado. \n\n*Cualquier accesorio que vea en las imágenes del carrusel se vende por separado. Use agua fría para lavar. No centrifugue. Evite usar blanqueadores o cloro. Planche con cuidado.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC09037.jpg?v=1715537812&width=1000",
+      "price": "80000",
+      "createdAt": 1721435762742,
+      "modifiedAt": 1721435762742,
+      "id": 15
+    },
+    {
+      "name": "CAMPERA VARSITY [ PURPLE GANG ] PATCH",
+      "description": "Campera confeccionada en algodón genuino con paño y ecocuero. Con efecto suavizado y prelavado. Compuesta por 90% algodón + 10% tejido spandex. Molderia oversized by TUAREQ. Prenda prelavada con efecto suavizado y acabado mercerizado.\n\n*Cualquier accesorio que vea en las imágenes del carrusel se vende por separado. Use agua fría para lavar. No centrifugue. Evite usar blanqueadores o cloro. Planche con cuidado.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/Ventastuareq-DSC07028.png?v=1707163138&width=1000",
+      "price": "100000",
+      "createdAt": 1721435841695,
+      "modifiedAt": 1721435841695,
+      "id": 16
+    },
+    {
+      "name": "BANDANA TUAREQ 64X64 [ GRIS TOPO GANG ]",
+      "description": "Bandana o pañuelo de 64cm x 64cm confeccionada en tejido de microfibra con estampado de diseño alusivo a colección. Con guarda de doble costura. \n\n*Cualquier accesorio que vea en las imágenes del carrusel se vende por separado. Use agua fría para lavar. No centrifugue. Evite usar blanqueadores o cloro. Planche con cuidado.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC02076-scaled.png?v=1707316730&width=1000",
+      "price": "5000",
+      "createdAt": 1721435962958,
+      "modifiedAt": 1721435962958,
+      "id": 17
+    },
+    {
+      "name": "TUAREQ CHAIN [ GOTIC LOGO ]",
+      "description": "Cadena fabricada en peltre pulido, bañada en níquel material que previene la oxidación y el color (anti-oxidable) Dispone de 52cm de diametro, cadena tipo eslabones decorados con un dije con el logo gótico de la marca TUAREQ.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC00971-1-e1671543964598.png?v=1707318482&width=1000",
+      "price": "6500",
+      "createdAt": 1721435999097,
+      "modifiedAt": 1721435999097,
+      "id": 18
+    },
+    {
+      "name": "CUADRO 110X65 [ TWIX ]",
+      "description": "Cuadro con marcos de madera y aserrín. Frente vidriado con grosor de 04mm de protección. Diseño según corresponda la selección. Articulo desarrollado para la division TUAREQ HOME.\n\n[MEDIDA UNICA]",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC00593_1.png?v=1707240816&width=1000",
+      "price": "65000",
+      "createdAt": 1721436054265,
+      "modifiedAt": 1721436054265,
+      "id": 19
+    },
+    {
+      "name": "ALFOMBRA [ JUST 4 STAFF BLACK ] 110MT X 80MT",
+      "description": "Opulenta, mullida y con tejido 100% algodón robusto. Confeccionadas en símil lana reforzada de calibre alto y aspero. Dispone de rebordes de doble costura y sometida a tratamiento anti-peeling que evita rejunte de hilos y partículas. \n\n[MEDIDAS VARIABLES SEGÚN DISEÑO]\n\n\n*De fácil mantenimiento. Lavado simple.\n\n*Evitar blanqueadores o cloro para su lavado. Secar en ambiente seco.\n\n*Modo de limpieza: Con escobilla humeda barrer en un mismo sentido removiendo excesos de suciedad.",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC05575-e1664458186270.png?v=1707311194&width=1000",
+      "price": "70000",
+      "createdAt": 1721436359857,
+      "modifiedAt": 1721436359857,
+      "id": 20
+    },
+    {
+      "name": "CUADRO 110X65 [ TORAXXX ] WHITE",
+      "description": "Cuadro con marcos de madera y aserrín. Frente vidriado con grosor de 04mm de protección. Diseño según corresponda la selección. Articulo desarrollado para la division TUAREQ HOME.\n\n[MEDIDA UNICA]",
+      "imageUrl": "https://tuareq.com/cdn/shop/files/DSC00657.png?v=1707240890&width=1000",
+      "price": "37500",
+      "createdAt": 1721436390132,
+      "modifiedAt": 1721436390132,
+      "id": 21
     }
   ]
 }
