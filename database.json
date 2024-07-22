@@ -223,6 +223,185 @@
       "createdAt": 1721436390132,
       "modifiedAt": 1721436390132,
       "id": 21
+    },
+    {
+      "name": "Jean Black \"Súper Baggy\"",
+      "description": "Un pantalón baggy negro es una prenda de vestir holgada y cómoda, caracterizada por su corte amplio y relajado que permite libertad de movimiento. Generalmente confeccionado en telas suaves y resistentes, este tipo de pantalón presenta una cintura ajustable, a menudo con cordones o elásticos, y perneras anchas que se estrechan ligeramente hacia los tobillos. Su diseño versátil lo convierte en una opción ideal tanto para looks casuales como para ocasiones más formales, dependiendo de cómo se combine con otras prendas y accesorios. El color negro añade un toque de elegancia y sofisticación, haciendo que sea fácil de combinar con cualquier atuendo.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/156/398/products/img_5660-89e3efceb0980a274317212393376971-1024-1024.webp",
+      "price": "50000",
+      "createdAt": 1721602861263,
+      "modifiedAt": 1721602861263,
+      "id": 22
+    },
+    {
+      "name": "Jean Cargo \"Haki Sky Blue\" Baggy",
+      "description": "El Jean Cargo \"Haki Sky Blue\" Baggy es una prenda de vestir moderna y funcional, perfecta para aquellos que buscan estilo y comodidad. Este jean se caracteriza por su corte holgado y relajado, que proporciona una gran libertad de movimiento y una apariencia casual y desenfadada. Está confeccionado en una tela denim resistente y de alta calidad en un tono azul cielo, lo que le da un aspecto fresco y juvenil.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/156/398/products/img_5669-39b8b40d59f8f073c717212401882167-1024-1024.webp",
+      "price": "50000",
+      "createdAt": 1721602959251,
+      "modifiedAt": 1721602959251,
+      "id": 23
+    },
+    {
+      "name": "Buzo \"San Francisco\" Oversize",
+      "description": "El Buzo \"San Francisco\" Oversize es una prenda cómoda y con estilo, perfecta para quienes buscan una apariencia relajada y moderna. Este buzo se destaca por su corte oversize, lo que significa que es intencionalmente más grande y suelto que las prendas de tamaño estándar, proporcionando una sensación de amplitud y confort.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/156/398/products/img_5282-31663c8243fd3932a917206253371443-1024-1024.webp",
+      "price": "50000",
+      "createdAt": 1721603345196,
+      "modifiedAt": 1721603345196,
+      "id": 24
+    },
+    {
+      "name": "Jean Óxido \"Baggy\"",
+      "description": "El Jean Óxido \"Baggy\" es una prenda de vestir distintiva y a la moda, diseñada para quienes valoran la comodidad sin sacrificar el estilo. Este jean se caracteriza por su corte baggy, que ofrece un ajuste holgado y relajado, permitiendo una gran libertad de movimiento y un look desenfadado.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/156/398/products/img_5303-322ac3c05ef0ad34c617206413178832-1024-1024.webp",
+      "price": "50000",
+      "createdAt": 1721603677088,
+      "modifiedAt": 1721603677088,
+      "id": 25
+    },
+    {
+      "name": "Sweater “Starlight “ Oversize",
+      "price": "30000",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/156/398/products/img_2881-0bb68fc00548b7c41917174567058639-1024-1024.webp",
+      "description": "El Sweater \"Starlight\" Oversize es una prenda de vestir elegante y acogedora, perfecta para quienes buscan una combinación de confort y estilo. Este sweater se caracteriza por su corte oversize, que proporciona un ajuste amplio y suelto, ideal para un look relajado y moderno.",
+      "modifiedAt": 1721604123599,
+      "id": 26
+    },
+    {
+      "name": "BUZO BEAUTIFUL",
+      "description": "Buzo primaveral \n",
+      "imageUrl": "https://dallasstore.com.ar/wp-content/uploads/2024/02/IMG_3293.jpeg",
+      "price": "40000",
+      "createdAt": 1721604405107,
+      "modifiedAt": 1721604405107,
+      "id": 27
+    },
+    {
+      "name": "BUZO SACRED ",
+      "description": "\nEl buzo SACRED es una prenda de vestir contemporánea y versátil, ideal para quienes buscan combinar comodidad y estilo en su día a día. Este buzo se caracteriza por su diseño moderno y urbano, que puede adaptarse a una variedad de looks y ocasiones.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/17cf82cd-bef8-4648-ba67-ed08c5a3d361-f22422cbfdea38516917182993488066-1024-1024.webp",
+      "price": "55000",
+      "createdAt": 1721604530291,
+      "modifiedAt": 1721604530291,
+      "id": 28
+    },
+    {
+      "name": "SWEATERS WARRIOR",
+      "description": "\nLos sweaters WARRIOR son prendas de vestir robustas y a la moda, diseñadas para quienes buscan una combinación de estilo, comodidad y durabilidad. Estos sweaters se destacan por su diseño versátil y su confección de alta calidad, ideales para diversas ocasiones y climas.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/whatsapp-image-2024-06-06-at-12-14-03-70662c9ee9269c9ea517176889363310-1024-1024.webp",
+      "price": "37999",
+      "createdAt": 1721604611975,
+      "modifiedAt": 1721604611975,
+      "id": 29
+    },
+    {
+      "name": "X",
+      "description": "La remera X es una prenda de vestir moderna y versátil, ideal para quienes buscan una combinación de estilo y comodidad en su vestimenta diaria. Esta remera se caracteriza por su diseño contemporáneo y su confección de alta calidad, adecuada para diversas ocasiones y estilos.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/29440911-9205-4109-a000-0db496f99737-a733c7dcdd1b49861a17176759869828-1024-1024.webp",
+      "price": "62000",
+      "createdAt": 1721604737825,
+      "modifiedAt": 1721604737825,
+      "id": 30
+    },
+    {
+      "name": "ANGELS AND DEMONS",
+      "description": "El buzo \"Angels and Demons\" es una prenda de vestir moderna y audaz, diseñada para quienes buscan expresar su estilo único y distintivo. Este buzo se caracteriza por su diseño llamativo y su confección de alta calidad, perfecta para destacar en cualquier ocasión.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/dbf83995-de11-4894-8b0e-4c2804be1ad2-fabd5bbb936103176e17169068309701-1024-1024.webp",
+      "price": "60000",
+      "createdAt": 1721604802347,
+      "modifiedAt": 1721604802347,
+      "id": 31
+    },
+    {
+      "name": "CAMPERA KING",
+      "description": "La campera \"King\" es una prenda de vestir robusta y elegante, diseñada para quienes buscan una combinación de estilo, protección y durabilidad. Esta campera se destaca por su confección de alta calidad y su diseño sofisticado, ideal para diversas ocasiones y climas.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/whatsapp-image-2024-05-28-at-17-04-13-2e353e5f17247bd79317169381935253-1024-1024.webp",
+      "price": "54300",
+      "createdAt": 1721605294874,
+      "modifiedAt": 1721605294874,
+      "id": 32
+    },
+    {
+      "name": "MANGA LARGA SACRIFICE",
+      "description": "La manga larga \"Sacrifice\" es una prenda de vestir moderna y expresiva, diseñada para quienes buscan combinar estilo y mensaje en su atuendo diario. Este diseño se destaca por su corte y detalles distintivos, que aportan un toque único a la vestimenta.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20240509_111703-fa9a42e8d902bb077417153668407390-1024-1024.webp",
+      "price": "32000",
+      "createdAt": 1721606249315,
+      "modifiedAt": 1721606249315,
+      "id": 33
+    },
+    {
+      "name": "MANGA LARGA MOVIE",
+      "description": "La manga larga \"Movie\" es una prenda de vestir moderna y temática, diseñada para quienes buscan un toque de estilo cinéfilo en su atuendo. Esta camiseta se caracteriza por su diseño atractivo y su confección de alta calidad, ideal para los amantes del cine y quienes buscan un look casual con un toque distintivo.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20240509_112406-613323dc8620af10f317153668201807-1024-1024.webp",
+      "price": "32000",
+      "createdAt": 1721606311075,
+      "modifiedAt": 1721606311075,
+      "id": 34
+    },
+    {
+      "name": "REMERA SCRAWL",
+      "description": "La remera \"Scrawl\" es una prenda de vestir moderna y creativa, diseñada para quienes buscan un estilo único y un toque de arte urbano en su atuendo. Esta camiseta se caracteriza por su diseño llamativo y su confección de alta calidad, ideal para aquellos que desean destacar con un look casual y a la moda.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20240510_130756-3e7a59436813e0449d17153669090066-1024-1024.webp",
+      "price": "16000",
+      "createdAt": 1721606449054,
+      "modifiedAt": 1721606449054,
+      "id": 35
+    },
+    {
+      "name": "UNCOMFORTABLE",
+      "description": "La remera \"Uncomfortable\" es una prenda de vestir audaz y distintiva, diseñada para quienes buscan expresar un estilo único y provocador a través de su atuendo. Esta camiseta combina una estética llamativa con comodidad, ideal para aquellos que desean destacar con un mensaje impactante.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20240510_142253-c0258ed8e760602be517153668780936-1024-1024.webp",
+      "price": "22000",
+      "createdAt": 1721609126685,
+      "modifiedAt": 1721609126685,
+      "id": 36
+    },
+    {
+      "name": "Short not at the exit",
+      "description": "El short \"Not at the Exit\" es una prenda de vestir casual y moderna, diseñada para quienes buscan un estilo único y llamativo en su atuendo diario. Este short combina comodidad y un diseño distintivo, ideal para aquellos que desean destacar con un toque de originalidad.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20240106_135627-39a0de919d7aaa819717045793148662-1024-1024.webp",
+      "price": "19000",
+      "createdAt": 1721609222829,
+      "modifiedAt": 1721609222829,
+      "id": 37
+    },
+    {
+      "name": "Short cherry",
+      "description": "El short \"Cherry\" es una prenda vibrante y fresca, diseñada para quienes buscan un estilo juvenil y alegre en su vestimenta. Este short destaca por su diseño llamativo y su confección de alta calidad, ideal para climas cálidos y para actividades casuales.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/002/598/152/products/photoroom_20231206_122839-6fbb00fb734561e84817019886365226-1024-1024.webp",
+      "price": "19499",
+      "createdAt": 1721609345086,
+      "modifiedAt": 1721609345086,
+      "id": 38
+    },
+    {
+      "name": "STREET",
+      "description": "El buzo \"Street\" es una prenda de vestir moderna y versátil, diseñada para quienes buscan un estilo urbano y cómodo. Este buzo combina un diseño contemporáneo con detalles funcionales, ideal para el uso diario y para quienes desean expresar su estilo de manera casual y a la moda.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/001/984/452/products/img_0316-9d180833589db3177417207452044148-640-0.webp",
+      "price": "36999",
+      "createdAt": 1721609442657,
+      "modifiedAt": 1721609442657,
+      "id": 39
+    },
+    {
+      "name": "Buzo Not Good Luck",
+      "description": "Buzo canguro regular fit con capucha, escote con cierre, con estampa en el frente y brazos",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/219/431/products/f0b7b7e1-c067-4e93-b479-292ab59a72fe-960237f0e3aff597f017158881513411-1024-1024.webp",
+      "price": "74000",
+      "createdAt": 1721609502835,
+      "modifiedAt": 1721609502835,
+      "id": 40
+    },
+    {
+      "name": "Remeron Vatikano",
+      "description": "Remerón oversize fit con estampa en frente.",
+      "imageUrl": "https://acdn.mitiendanube.com/stores/219/431/products/37c3f918-4b5c-44c5-b4f6-50dc01746ede-cb59aba225b6dfa65917012711571239-1024-1024.webp",
+      "price": "39000",
+      "createdAt": 1721609587361,
+      "modifiedAt": 1721609587361,
+      "id": 41
     }
   ]
 }
