@@ -2,13 +2,12 @@
   "users": [
     {
       "name": "user",
-      "lastname": "common",
+      "lastname": "Loquita",
       "email": "user@gmail.com",
-      "password": "user",
       "role": "User",
       "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
-      "createdAt": 1721187928286,
-      "modifiedAt": 1721187928286,
+      "password": "user",
+      "modifiedAt": 1721765574540,
       "id": 12
     },
     {
@@ -29,6 +28,72 @@
       "password": "admin",
       "modifiedAt": 1721408821769,
       "id": 14
+    },
+    {
+      "name": "probandoCambio",
+      "lastname": "invoice",
+      "email": "prob@gmail.com",
+      "password": "invoice",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721773931037,
+      "modifiedAt": 1721773931037,
+      "id": 15
+    },
+    {
+      "name": "asdjabs",
+      "lastname": "ad",
+      "email": "ad@gmail.com",
+      "password": "ad",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721788986704,
+      "modifiedAt": 1721788986704,
+      "id": 16
+    },
+    {
+      "name": "probandoEGusano",
+      "lastname": "pribadno",
+      "email": "probando@gmail.com",
+      "password": "prob",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721791811713,
+      "modifiedAt": 1721791811713,
+      "id": 17
+    },
+    {
+      "name": "roberto",
+      "lastname": "carlos",
+      "email": "r9@gmail.com",
+      "password": "r9",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721792724349,
+      "modifiedAt": 1721792724349,
+      "id": 18
+    },
+    {
+      "name": "aa",
+      "lastname": "aa",
+      "email": "aa@gmail.com",
+      "password": "aa",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721794655760,
+      "modifiedAt": 1721794655760,
+      "id": 19
+    },
+    {
+      "name": "sin",
+      "lastname": "factura",
+      "email": "sinfa@gmail.com",
+      "password": "sinfa",
+      "role": "User",
+      "imageUrl": "https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1095249842.jpg",
+      "createdAt": 1721839712489,
+      "modifiedAt": 1721839712489,
+      "id": 20
     }
   ],
   "products": [
@@ -402,6 +467,266 @@
       "createdAt": 1721609587361,
       "modifiedAt": 1721609587361,
       "id": 41
+    }
+  ],
+  "invoice": [
+    {
+      "id": 1,
+      "userId": 12,
+      "products": [
+        {
+          "name": "Remeron Vatikano",
+          "quantity": 1,
+          "price": "39000"
+        }
+      ],
+      "totalPrice": 39000,
+      "createdAt": 1721770941844,
+      "modifiedAt": 1721770941844
+    },
+    {
+      "userId": 12,
+      "products": [
+        {
+          "name": "Remeron Vatikano",
+          "quantity": 1,
+          "price": "39000"
+        },
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 1,
+          "price": "74000"
+        },
+        {
+          "name": "Short cherry",
+          "quantity": 1,
+          "price": "19499"
+        }
+      ],
+      "totalPrice": 132499,
+      "createdAt": 1721770972648,
+      "modifiedAt": 1721770972648,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "userId": 12,
+      "products": [
+        {
+          "name": "Remeron Vatikano",
+          "quantity": 1,
+          "price": "39000"
+        },
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 2,
+          "price": "74000"
+        }
+      ],
+      "totalPrice": 187000,
+      "createdAt": 1721771288550,
+      "modifiedAt": 1721771288550
+    },
+    {
+      "id": 4,
+      "userId": 12,
+      "products": [
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 1,
+          "price": "74000"
+        },
+        {
+          "name": "STREET",
+          "quantity": 1,
+          "price": "36999"
+        }
+      ],
+      "totalPrice": 110999,
+      "createdAt": 1721772023616,
+      "modifiedAt": 1721772023616
+    },
+    {
+      "id": 5,
+      "userId": 13,
+      "products": [
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 1,
+          "price": "74000"
+        },
+        {
+          "name": "Short not at the exit",
+          "quantity": 1,
+          "price": "19000"
+        },
+        {
+          "name": "MANGA LARGA MOVIE",
+          "quantity": 3,
+          "price": "32000"
+        },
+        {
+          "name": "ANGELS AND DEMONS",
+          "quantity": 1,
+          "price": "60000"
+        },
+        {
+          "name": "BUZO SACRED ",
+          "quantity": 1,
+          "price": "55000"
+        },
+        {
+          "name": "BUZO BEAUTIFUL",
+          "quantity": 1,
+          "price": "40000"
+        },
+        {
+          "name": "Jean Cargo \"Haki Sky Blue\" Baggy",
+          "quantity": 1,
+          "price": "50000"
+        },
+        {
+          "name": "ALFOMBRA [ JUST 4 STAFF BLACK ] 110MT X 80MT",
+          "quantity": 1,
+          "price": "70000"
+        },
+        {
+          "name": "CUADRO 110X65 [ TWIX ]",
+          "quantity": 1,
+          "price": "65000"
+        }
+      ],
+      "totalPrice": 529000,
+      "createdAt": 1721774748558,
+      "modifiedAt": 1721774748558
+    },
+    {
+      "id": 6,
+      "userId": 14,
+      "products": [
+        {
+          "name": "MANGA LARGA MOVIE",
+          "quantity": 1,
+          "price": "32000"
+        },
+        {
+          "name": "Remeron Vatikano",
+          "quantity": 1,
+          "price": "39000"
+        }
+      ],
+      "totalPrice": 71000,
+      "createdAt": 1721788888957,
+      "modifiedAt": 1721788888957
+    },
+    {
+      "id": 7,
+      "userId": 16,
+      "products": [
+        {
+          "name": "X",
+          "quantity": 1,
+          "price": "62000"
+        },
+        {
+          "name": "STREET",
+          "quantity": 1,
+          "price": "36999"
+        }
+      ],
+      "totalPrice": 98999,
+      "createdAt": 1721790856113,
+      "modifiedAt": 1721790856113
+    },
+    {
+      "id": 8,
+      "userId": 17,
+      "products": [
+        {
+          "name": "STREET",
+          "quantity": 1,
+          "price": "36999"
+        }
+      ],
+      "totalPrice": 36999,
+      "createdAt": 1721791854854,
+      "modifiedAt": 1721791854854
+    },
+    {
+      "id": 9,
+      "userId": 17,
+      "products": [
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 11,
+          "price": "74000"
+        }
+      ],
+      "totalPrice": 814000,
+      "createdAt": 1721791944395,
+      "modifiedAt": 1721791944395
+    },
+    {
+      "id": 10,
+      "userId": 18,
+      "products": [
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 1,
+          "price": "74000"
+        },
+        {
+          "name": "STREET",
+          "quantity": 1,
+          "price": "36999"
+        }
+      ],
+      "totalPrice": 110999,
+      "createdAt": 1721792865465,
+      "modifiedAt": 1721792865465
+    },
+    {
+      "id": 11,
+      "userId": 18,
+      "products": [
+        {
+          "name": "MANGA LARGA MOVIE",
+          "quantity": 2,
+          "price": "32000"
+        },
+        {
+          "name": "CAMPERA KING",
+          "quantity": 1,
+          "price": "54300"
+        }
+      ],
+      "totalPrice": 118300,
+      "createdAt": 1721794608373,
+      "modifiedAt": 1721794608373
+    },
+    {
+      "id": 12,
+      "userId": 12,
+      "products": [
+        {
+          "name": "STREET",
+          "quantity": 1,
+          "price": "36999"
+        },
+        {
+          "name": "Buzo Not Good Luck",
+          "quantity": 1,
+          "price": "74000"
+        },
+        {
+          "name": "Short cherry",
+          "quantity": 1,
+          "price": "19499"
+        }
+      ],
+      "totalPrice": 130498,
+      "createdAt": 1721842718805,
+      "modifiedAt": 1721842718805
     }
   ]
 }
